@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Vinit Damania 👋</h1>
 <h3 align="center">Building elegant solutions with code, one feature at a time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitdamania&label=Profile%20views&color=0e75b6&style=flat" alt="vinitdamania" /> </p>
-
 ## About Me
 
 I'm a software engineer who loves turning ideas into reality through clean, efficient code. Whether it's architecting full-stack applications from scratch, modernizing legacy systems, or diving into new frameworks to solve problems — I'm all in.
