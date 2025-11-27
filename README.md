@@ -18,6 +18,8 @@ I'm a software engineer who loves turning ideas into reality through clean, effi
 
 When I'm not coding, I'm probably exploring the latest in AI tools, optimizing workflows, or figuring out how to make my next project even better than the last.
 
+I also write on [Medium](https://medium.com/@vinitdamania) about real development challenges, debugging techniques, and solutions that might help other developers facing similar problems.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -33,6 +35,7 @@ When I'm not coding, I'm probably exploring the latest in AI tools, optimizing w
 
 <p align="left">
 <a href="https://linkedin.com/in/vinit-damania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinitdamania" height="30" width="40" /></a>
+<a href="https://medium.com/@vinitdamania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vinitdamania" height="30" width="40" /></a>
 <a href="https://instagram.com/vinit__damania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinit__damania" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinitdamania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinitdamania" height="30" width="40" /></a>
 </p>
